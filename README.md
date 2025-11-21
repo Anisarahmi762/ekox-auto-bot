@@ -33,6 +33,5 @@ For issues and questions:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
----
 
-**Repository**: https://github.com/vikitoshi/ekox-auto-bot.git
+
